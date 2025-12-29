@@ -58,7 +58,7 @@ const NavBar = () => {
               className="nav-item font-semibold hover:cursor-pointer"
               onClick={() => handleScroll("#home")}
             >
-              sarah dickerson
+              ISHA TESTTESTSETETSTESTSE
             </h1>
           </div>
           {/* Desktop Nav */}
@@ -73,7 +73,7 @@ const NavBar = () => {
               className="nav-item hover:cursor-pointer"
               onClick={() => handleScroll("#projects")}
             >
-              projects
+              ISHA TEST
             </h1>
             <h1
               className="nav-item hover:cursor-pointer"
